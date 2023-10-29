@@ -5,7 +5,7 @@
 This Flutter mobile app project is designed to showcase a list of New York Times Top Stories, allowing users to explore articles in both list and grid views. The app integrates with the New York Times public API to fetch the latest stories.
 
 
-![Alt Text](URL)
+![Alt Text]([URL](https://github.com/monisbaig/news_app/blob/91ee401d835a48530b73bff876e82d1436263419/images/NewsApp.jpg))
 
 
 ### Stack:
