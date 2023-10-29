@@ -4,8 +4,7 @@
 
 This Flutter mobile app project is designed to showcase a list of New York Times Top Stories, allowing users to explore articles in both list and grid views. The app integrates with the New York Times public API to fetch the latest stories.
 
-
-![Alt Text](URL)
+![Alt Text](https://github.com/monisbaig/news_app/blob/91ee401d835a48530b73bff876e82d1436263419/images/NewsApp.jpg)
 
 
 ### Stack:
@@ -29,10 +28,15 @@ This project includes a suite of tests to ensure its functionality and stability
 
 - **Unit Tests**: I have implemented unit tests to verify the correctness of Api calls, functions and components within the app.
 
-
 ### A few words:
 During development,
-I used clean architecture, (Riverpod, Slivers, Get Widget, Web View, Http and Flutter Screen Utils Packages).
+I used clean architecture:
+- Riverpod.
+- Slivers.
+- Get Widget.
+- Web View.
+- Http.
+- Flutter Screen Utils Packages.
 
 
 ### Where to get my own API Key?
