@@ -2,10 +2,10 @@ import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
 import 'package:getwidget/getwidget.dart';
-import 'package:news_app/auth/controller/stories_controller.dart';
 import 'package:news_app/screens/details_screen.dart';
 
 import '../common/global_variables.dart';
+import '../services/controller/stories_controller.dart';
 import '../widgets/custom_textfield.dart';
 
 class HomeScreen extends ConsumerStatefulWidget {

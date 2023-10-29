@@ -1,9 +1,9 @@
 import 'package:flutter_test/flutter_test.dart';
 import 'package:http/http.dart';
 import 'package:mocktail/mocktail.dart';
-import 'package:news_app/auth/repository/stories_repository.dart';
 import 'package:news_app/common/global_variables.dart';
 import 'package:news_app/models/top_stories_model.dart';
+import 'package:news_app/services/repository/stories_repository.dart';
 
 class MockHTTPClient extends Mock implements Client {}
 
