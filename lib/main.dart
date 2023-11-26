@@ -19,15 +19,10 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return ScreenUtilInit(
       builder: (context, _) {
-        return MaterialApp(
+        return const MaterialApp(
           title: 'News App',
           debugShowCheckedModeBanner: false,
-          theme: ThemeData(
-            colorScheme:
-                ColorScheme.fromSeed(seedColor: Colors.lightBlueAccent),
-            useMaterial3: true,
-          ),
-          home: const HomeScreen(),
+          home: HomeScreen(),
         );
       },
     );
