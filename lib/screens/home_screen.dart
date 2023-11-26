@@ -59,6 +59,7 @@ class _HomeScreenState extends ConsumerState<HomeScreen> {
                       SizedBox(
                         width: 205.w,
                         child: CustomTextField(
+                          maxLines: 1,
                           hint: 'Search',
                           controller: searchController,
                           prefixIcon: Icon(
